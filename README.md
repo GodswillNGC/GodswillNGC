@@ -7,18 +7,13 @@
 ; alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
-<p align="center">
-  <a href="https://linkedin.com/in/godswill-ndubuisi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>godswillndubuisi71@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-</p>
-
 
 <p align="center">
-  <a href="https://linkedin.com/username/">
+  <a href="https://linkedin.com/in/godswill-ndubuisi">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
 
-  <a href="mailto:example@gmail.com">
+  <a href="mailto:godswillndubuisi71@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
   </a>
 </p>
