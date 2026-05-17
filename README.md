@@ -19,7 +19,10 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Recent Projects](https://github.com/GodswillNGC?tab=repositories)
+### Recent Projects
+### [Global Petroleum Export Performance Analysis](https://github.com/GodswillNGC/Global-Petroleum-Export-Performance-Analysis)
+
+### [Global Petroleum Export Performance Analysis]([https://github.com/GodswillNGC?tab=repositories](https://github.com/GodswillNGC/E-Commerce-Business-Intelligence-Portfolio)
       
 ## 🛠️ Technical Skillset
 
