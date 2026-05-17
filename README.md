@@ -22,7 +22,8 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 ### Recent Projects
 ### [Global Petroleum Export Performance Analysis](https://github.com/GodswillNGC/Global-Petroleum-Export-Performance-Analysis)
 
-### [Global Petroleum Export Performance Analysis]([https://github.com/GodswillNGC?tab=repositories](https://github.com/GodswillNGC/E-Commerce-Business-Intelligence-Portfolio)
+### [E-Commerce Business Intelligence](https://github.com/GodswillNGC/E-Commerce-Business-Intelligence-Portfolio)
+
       
 ## 🛠️ Technical Skillset
 
