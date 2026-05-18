@@ -63,3 +63,15 @@ My focus is on building dashboards that get used, automating repetitive tasks to
   
   <img src="https://img.shields.io/badge/Data%20Storytelling-Experienced-F7B801?style=flat" alt="Data Storytelling Skill Badge">
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Data%20Visualization-Advanced-FF6B6B?style=flat" alt="Data Visualization Badge">
+
+  <img src="https://img.shields.io/badge/KPI%20Reporting-Experienced-4ECDC4?style=flat" alt="KPI Reporting Badge">
+
+  <img src="https://img.shields.io/badge/Data%20Modeling-Intermediate-45B7D1?style=flat" alt="Data Modeling Badge">
+
+  <img src="https://img.shields.io/badge/Dashboard%20Development-Advanced-96CEB4?style=flat" alt="Dashboard Development Badge">
+
+  <img src="https://img.shields.io/badge/Data%20Storytelling-Experienced-F7B801?style=flat" alt="Data Storytelling Badge">
+</p>
