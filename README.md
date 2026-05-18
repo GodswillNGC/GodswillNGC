@@ -38,6 +38,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
+  <img src="https://img.shields.io/badge/SQL-Expert-4479A1?style=flat" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/SQL-Expert-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
@@ -52,7 +53,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
   
   <img src="https://img.shields.io/badge/KPI%20Reporting-Experienced-4ECDC4?style=flat" alt="KPI Reporting Skill Badge">
   
-  <img src="https://img.shields.io/badge/Data%20Modeling-Intermediate-45B7D1?style=flat" alt="Data Modeling Skill Badge">
+  <img src="https://img.shields.io/badge/Data%20Modeling-Advanced-45B7D1?style=flat" alt="Data Modeling Skill Badge">
   
   <img src="https://img.shields.io/badge/Dashboard%20Development-Advanced-96CEB4?style=flat" alt="Dashboard Development Skill Badge">
   
